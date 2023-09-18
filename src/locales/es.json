@@ -1,0 +1,24 @@
+{
+  "buttons": {
+    "create": "Crear",
+    "edit": "Editar",
+    "delete": "Borrar"
+  },
+  "login": {
+    "welcome": "Bienvenido"
+  },
+  "datagrid": {
+    "filterOperatorIsAnyOf": "es alguno de",
+    "toolbarDensity": "Densidad"
+  },
+  "menu": {
+    "customer": "Cliente"
+  },
+  "customer":{
+    "form": {
+      "error": {
+        "name is required": "Nombre es requerid"
+      }
+    }
+  }
+}

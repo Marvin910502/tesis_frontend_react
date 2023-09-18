@@ -1,0 +1,2 @@
+/web/*  https://allmyhomes.odoo.com/web/:splat  200!
+/*    /index.html   200

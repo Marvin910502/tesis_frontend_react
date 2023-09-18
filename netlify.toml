@@ -1,0 +1,7 @@
+[build]
+    command = "cp  redirects/redirect.production public/_redirects && yarn build-routes  &&   yarn build"
+
+[context.deploy-preview]
+    command = "cp  redirects/redirect.staging public/_redirects && yarn build-routes &&  yarn staging"
+
+

@@ -1,0 +1,16 @@
+{
+  "buttons": {
+    "create": "Crear",
+    "edit": "Editar",
+    "delete": "Borrar"
+  },
+  "login": {
+    "welcome": "Bienvenido"
+  },
+  "datagrid": {
+    "toolbarDensity": "size."
+  },
+  "menu": {
+    "customer": "Customer"
+  }
+}
